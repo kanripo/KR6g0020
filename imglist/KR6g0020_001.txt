@@ -1,0 +1,4 @@
+001-0627b00	X 001-0627b	buddhist/X-xuzang/X37/06/X37-0627.png
+001-0627c00	X 001-0627c	buddhist/X-xuzang/X37/06/X37-0627.png
+001-0628a00	X 001-0628a	buddhist/X-xuzang/X37/06/X37-0628.png
+001-0628b00	X 001-0628b	buddhist/X-xuzang/X37/06/X37-0628.png
